@@ -1,0 +1,26 @@
+CIS4930 Event-Driven Cache Simulation Project Spring 2022
+	-Contributors:
+		-Pablo Hernandez-Perretti
+		-Sava Glisic
+
+	-Dependencies:
+		-Simulator written in Python 3, with dependencies on numpy and
+		any recent version of Python.
+
+	-Compilation Instructions:
+		-Written using Jupyter Notebook plug-in via Google Colab, accessing
+		via Google Colab is ideal execution environment (Acess Link Included Below).
+			-Dependencies are automatically available upon signing in or creating
+			an account with Google
+		-Alternatively, configure runtime environment with Numpy and Updated version
+		of Python.
+		-To execute program with default (brief runtime) parameters, simply run code. 
+		-To manipulate parameters, navigate to last lines of code and directly alter
+		labeled parameter list.
+
+
+Globally Acessible Link:
+		https://colab.research.google.com/drive/1ZLgE7y3Q2nSQEHxQGyvx0anob-saV27J?usp=sharing
+
+DEMO Video Link:
+https://uflorida-my.sharepoint.com/:v:/g/personal/pablo_hernandezp_ufl_edu/EYAyYwfuqY5EtyNWsuB9YQsBq9y8gWYJNWbwyvpHuDMCPg?e=WxmvPC
